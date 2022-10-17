@@ -24,7 +24,7 @@ include 'includes/header.php';
         echo '<h3 style="color: green">You pass the course</h3>';
     }
     elseif($grade == 'F'){
-        echo '<h3 style="color: red">You faild the course</h3>';
+        echo '<h3 style="color: red">You failed the course</h3>';
     }
     ?>
 <br/>
