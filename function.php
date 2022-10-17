@@ -12,7 +12,7 @@ include 'includes/header.php';
     <?php 
       
       function writeMessage(){
-        echo "This is a very good skill to have on ones too kit <br/><br/>";
+        echo "This is a very good skill to have on one's tool kit <br/><br/>";
       }
 
       writeMessage();
