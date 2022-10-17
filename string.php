@@ -15,8 +15,8 @@ include 'includes/header.php';
    echo '<br/>';
    echo '<br/>';
 
-   echo 'Uppdercase first letter:' . ucfirst($name).'<br/>';
-   echo 'Uppdercase first letter of each word' . ucwords($name).'<br/>';
+   echo 'Uppercase first letter:' . ucfirst($name).'<br/>';
+   echo 'Uppercase first letter of each word' . ucwords($name).'<br/>';
    echo 'Repeat String:' . str_repeat('d', 4) . '<br/>';
    echo 'Repeat String - Nested Function:' . strtoupper(str_repeat('a',5)) . '<br/>'; 
     ?>
