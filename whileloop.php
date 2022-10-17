@@ -8,7 +8,7 @@
 <br/>
 <br/> 
 <div>
-<h2>Do-While Loop</h2>
+<h2>While Loop</h2>
     <?php 
     $rate = 0;
     while($rate < 5){
