@@ -12,7 +12,7 @@ include 'includes/header.php';
     $grade = 90;
 
     if($grade >= 90){
-        echo '<h3 style="color: green">You pass the course</h3>';
+        echo '<h3 style="color: green">You passed the course</h3>';
     }
     else{
         echo '<h3 style="color: red">You faild the course</h3>';
